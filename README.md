@@ -1,9 +1,7 @@
 ### Hola a todos! 👋
 
 ### Sobre mí
-- 💬  Soy estudiante Full Stack Web Developer, con ganas de seguir avanzando en mundo de la programación. Actualmente en la etapa final del bootcamp Soy Henry
-Realicé un proyecto individual sobre Pokemon, donde se debía realizar la base de datos, el backend y frontend con tecnologías aprendidas en el bootcamp donde se pueden ordenar, filtrar, ver detalles y buscar pokemones. Además, crear, editar y eliminar un pokemon guardado en base de datos, todo ello en un lapso de 2.5 semanas
-Anteriormente realicé un trabajo donde se debían refactorizar componentes realizados con SASS y Bootstrap a styled-components.
+- 💬  Soy Full Stack Web Developer,con orientación al front-end, con ganas de seguir avanzando en mundo de la programación 😁.
 
 ---
 
